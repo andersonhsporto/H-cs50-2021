@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: is the least efficient algorithm but it has the same runtime as the selection sort when the file is sorted
+
+sort2 uses: Merge sort
+
+How do you know?: is the fastest among algorithms and when the file is reversed the runtime is longer
+
+sort3 uses: Selection sort
+
+How do you know?: the runtime is the same for all file types
